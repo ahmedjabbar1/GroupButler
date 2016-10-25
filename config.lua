@@ -5,7 +5,7 @@ return {
 	superadmins = {23646077, 278941742},
 	log = {
 		chat = -1001057801239, --Your log chat, where your bot must be added!
-		admin = 23646077, --The admin.
+		admin = 231543308, --The admin.
 		stats = nil
 	},
 	bot_settings = {
@@ -20,14 +20,14 @@ return {
 		debug_connections = false,
 		realm_max_members = 60
 	},
-	channel = '@groupbutler_ch', --channel username with the '@'
-	source_code = 'https://github.com/RememberTheAir/GroupButler',
+	channel = '@DeVToP', --channel username with the '@'
+	source_code = 'https://github.com/ahmedjabbar1/Devapi',
 	help_groups = {
-		['Internatonal (English)'] = 'https://telegram.me/joinchat/EKBQLj7Zf6lE2K_Pk0Epcg', --group link, not (at)username! If you have your own support group, modify here!
-		['Italian'] = 'https://telegram.me/joinchat/ITAgroupbutler',
-		['Persian'] = 'https://telegram.me/joinchat/CTDUTkCOsEt4DZT-SUQdBQ',
-		['Russian'] = 'https://telegram.me/rubutler',
-		['Spanish'] = 'https://telegram.me/ESgroupbutler'
+		['Internatonal (English)'] = 'https://telegram.me/Devtop', --group link, not (at)username! If you have your own support group, modify here!
+		['Italian'] = 'https://telegram.me/devtop',
+		['Persian'] = 'https://telegram.me/devtop',
+		['Russian'] = 'https://telegram.me/devtop',
+		['Spanish'] = 'https://telegram.me/devtop'
 	},
 	plugins = {
 		'onmessage.lua', --THIS MUST BE THE FIRST: IF AN USER IS SPAMMING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
